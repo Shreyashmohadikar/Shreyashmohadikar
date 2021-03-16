@@ -1,5 +1,5 @@
 ## Hey folks!!, Shreyash Mohadikar here
-## I'm a 1st year student pursuing Btech in Computer Science and Engineering with specialization inh Artificial Intelligence and and Machine Learning. I love to code and programming languages such C++, Python are of my keen interest. 
+## I'm a 1st year student pursuing Btech in Computer Science and Engineering with specialization inh Artificial Intelligence and and Machine Learning at Vellore Institute of Technology, Bhopal. I love to code and programming languages such C++, Python are of my keen interest. 
 ## 
 
 ### Some random facts about me:
