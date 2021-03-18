@@ -6,3 +6,4 @@
 - ### I don't like and even don't want to move and grow with the crowd, I love to learn new things and get tons of knowlege from them
 - ### I like to do every task with perfection & uniqueness
 - ### I love to play piano
+  
