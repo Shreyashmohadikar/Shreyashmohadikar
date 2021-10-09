@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **shreyashmohadikar@gmail.com**
+- 📫 How to reach me **- shreyashmohadikar@gmail.com**
 
 - ⚡ My Hobbies **Piano, Basketball**
 <h3 align='center'>“Let the dataset change your mindset” </h3>
