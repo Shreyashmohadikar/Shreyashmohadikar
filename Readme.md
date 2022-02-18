@@ -12,9 +12,9 @@
 <p align="left">
 <a href="https://twitter.com/shreyashmohadi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyashmohadi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyash-mohadikar-ab3404195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashmohadikar/" height="30" width="40" /></a>  
-<a href="https://dev.to/shreyashmohadikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shreyashmohadikar" height="30" width="40" /></a> 
+<a href="https://devpost.com/shreyashmohadikar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="shreyashmohadikar" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/shreyash-mohadikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreyash-mohadikar" height="30" width="40" /></a>  
-<a href="https://medium.com/@shreyash mohadikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shreyash-mohadikar2020" height="30" width="40" /></a>
+<a href="https://medium.com/@shreyash-mohadikar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shreyash-mohadikar2020" height="30" width="40" /></a>
 
 
 </p>
