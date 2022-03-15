@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shreyash-mohadikar-ab3404195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashmohadikar/" height="30" width="40" /></a>
 <a href="https://twitter.com/shreyashmohadi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyashmohadi2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyash-mohadikar-ab3404195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashmohadikar/" height="30" width="40" /></a>  
 <a href="https://devpost.com/shreyashmohadikar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="shreyashmohadikar" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/shreyash-mohadikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreyash-mohadikar" height="30" width="40" /></a>  
 <a href="https://medium.com/@shreyash-mohadikar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shreyash-mohadikar2020" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://media-exp1.licdn.com/dms/image/C560BAQG4xGO7GA7ExA/company-logo_200_200/0/1625156273146?e=1654128000&v=beta&t=MbDVb-4omKzaIwHQZVQyDJIN_ri4Igu_wFJ5GFLyDEs"     alt="Postman" width="40" height="40"/> </a> </p>
 
