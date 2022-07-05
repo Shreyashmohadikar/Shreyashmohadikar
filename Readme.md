@@ -49,7 +49,7 @@
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://media-exp1.licdn.com/dms/image/C560BAQG4xGO7GA7ExA/company-logo_200_200/0/1625156273146?e=1654128000&v=beta&t=MbDVb-4omKzaIwHQZVQyDJIN_ri4Igu_wFJ5GFLyDEs"     alt="Postman" width="40" height="40"/> </a> </p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNiu_WGQLxcrI0n2NoHZTWwl2_GlodbhMMvxILk2jBtGM6JhJr5Oe1GelyWXh4LYnN8o&usqp=CAU" alt="Postman" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashmohadikar&show_icons=true&locale=en&layout=compact" alt="shreyashmohadikar" /></p>
 
