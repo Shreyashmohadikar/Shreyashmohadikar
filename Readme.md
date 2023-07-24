@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mohadikar</h1>
 <h3 align="center">I'm a final year student pursuing Btech in Computer Science and Engineering with specialization in Artificial Intelligence and and Machine Learning at Vellore Institute of Technology, Bhopal.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **MLOps**
 
 - 📫 How to reach me **- shreyashmohadikar@gmail.com**
 
