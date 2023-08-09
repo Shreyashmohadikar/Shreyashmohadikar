@@ -60,4 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashmohadikar&show_icons=true&locale=en&theme=tokyonight" alt="shreyashmohadikar" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyashmohadikar&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyashmohadikar&theme=tokyonight)](https://git.io/streak-stats)
