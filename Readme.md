@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mohadikar</h1>
-<h3 align="center">I'm a final year student pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Vellore Institute of Technology, Bhopal</h3>
+<h3 align="center">I am a final year student pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Vellore Institute of Technology, Bhopal</h3>
 
 - 🌱 I’m currently learning **MLOps**
 
