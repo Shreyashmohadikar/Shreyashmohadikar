@@ -10,12 +10,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyashmohadikar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyashmohadikar/" height="30" width="40" /></a>
-<a href="https://linktr.ee/shreyashmohadikar" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="shreyash-mohadikar" height="30" width="40" /></a>  
-<a href="https://medium.com/@shreyash-mohadikar2020" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="shreyash-mohadikar2020" height="30" width="40" /></a>
-<a href="https://leetcode.com/shreyashmohadikar/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="shreyashmohadikar" height="30" width="40" /></a> 
-<a href="https://devpost.com/shreyashmohadikar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" alt="shreyashmohadikar" height="30" width="40" /></a> 
-<a href="https://twitter.com/shreyashmohadi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyashmohadi2" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shreyashmohadikar/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://linktr.ee/shreyashmohadikar" target="_blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="Linktree" height="30" width="40" />
+  </a>  
+  <a href="https://leetcode.com/shreyashmohadikar/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" height="30" width="40" />
+  </a> 
+  <a href="https://devpost.com/shreyashmohadikar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" alt="Devpost" height="30" width="40" />
+  </a> 
+  <a href="https://twitter.com/shreyashmohadi2" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@shreyash-mohadikar2020" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
 
 </p>
 
